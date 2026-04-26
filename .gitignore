@@ -1,0 +1,14 @@
+# Ignore the model file (it's too large for GitHub)
+brain_tumor_final.keras
+best_model.h5
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+# Ignore your local secret keys (we'll create .env later)
+.env
+
+# Ignore common IDE and OS junk
+.vscode/
+.DS_Store
