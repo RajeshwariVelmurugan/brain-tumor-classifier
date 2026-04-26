@@ -9,16 +9,5 @@ A deep learning web app that can:
 
 ---
 
-## 📸 How It Looks
-
-(You can add a screenshot of your Gradio UI here)
-
----
-
-## 🚀 Try It Live (if hosted)
-
-If you have a public link, paste it here:  
-[Live Demo](https://your-gradio-link.gradio.live)
-
 ---
 
